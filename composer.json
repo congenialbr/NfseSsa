@@ -1,5 +1,5 @@
 {
-    "name": "potelo/nfse-ssa",
+    "name": "congenialbr/nfse-ssa",
     "description": "Emissão de Nota Fiscal de Serviços Eletrônica (NFS-e) em Salvador-BA",
     "type": "library",
     "require": {
