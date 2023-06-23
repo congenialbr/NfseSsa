@@ -1,7 +1,6 @@
 <?php
 
-namespace congenialbr\NfseSsa;
-
+namespace Congenialbr\NfseSsa;
 
 class Response
 {
